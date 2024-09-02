@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'album.dart'; // Importa el archivo donde creaste la clase Album y fetchAlbum
+import 'album.dart'; // Importa el archivo donde creado en la clase Album y fetchAlbum
 
 void main() => runApp(const MyApp());
 
